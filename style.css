@@ -1,0 +1,23 @@
+body{
+  background-image: url(./images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: fixed;
+}
+.hero{
+  margin-block: 15rem;
+  text-align: center;
+  color: black;
+}
+.hero a{
+  background-color: black;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-decoration: none;
+  color: white;
+}
+.faq{
+  color: black;
+}
+.faq p.h1{
+  margin: 5rem;
+}
